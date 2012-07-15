@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Refstats Reports View feature.
+ */
+
+include_once 'refstats_reports_view.features.inc';

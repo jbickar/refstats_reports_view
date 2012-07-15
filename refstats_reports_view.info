@@ -1,0 +1,12 @@
+name = Refstats Reports View
+description = Reports View used by the Reference Statistics application
+core = 7.x
+package = Reference Statistics
+version = 7.x-1.0-alpha1
+project = refstats_reports_view
+dependencies[] = ctools
+dependencies[] = refstats
+dependencies[] = views
+features[ctools][] = views:views_default:3.0
+features[features_api][] = api:1
+project status url = http://drupalfeatures.stanford.edu/fserver/refstats_views/7.x
